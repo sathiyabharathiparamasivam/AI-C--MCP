@@ -1,0 +1,14 @@
+{
+    "inputs": [],
+    "servers": {
+        "MyFirstMCP": {
+            "type": "stdio",
+            "command": "dotnet",
+            "args": [
+                "run",
+                "--project",
+                "D:\\Sathiya\\AI-C#-MCP\\MyFirstMCP.csproj"
+            ]
+        }
+    }
+}
