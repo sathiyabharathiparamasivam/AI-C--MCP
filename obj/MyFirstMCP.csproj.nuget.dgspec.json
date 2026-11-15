@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sathi\\source\\repos\\C#MCP\\MyFirstMCP\\MyFirstMCP.csproj": {}
+    "D:\\Sathiya\\AI-C#-MCP\\MyFirstMCP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sathi\\source\\repos\\C#MCP\\MyFirstMCP\\MyFirstMCP.csproj": {
+    "D:\\Sathiya\\AI-C#-MCP\\MyFirstMCP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sathi\\source\\repos\\C#MCP\\MyFirstMCP\\MyFirstMCP.csproj",
+        "projectUniqueName": "D:\\Sathiya\\AI-C#-MCP\\MyFirstMCP.csproj",
         "projectName": "MyFirstMCP",
-        "projectPath": "C:\\Users\\sathi\\source\\repos\\C#MCP\\MyFirstMCP\\MyFirstMCP.csproj",
+        "projectPath": "D:\\Sathiya\\AI-C#-MCP\\MyFirstMCP.csproj",
         "packagesPath": "C:\\Users\\sathi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sathi\\source\\repos\\C#MCP\\MyFirstMCP\\obj\\",
+        "outputPath": "D:\\Sathiya\\AI-C#-MCP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
